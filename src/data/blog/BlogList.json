@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Vue'ya yeni başlayanlar için 5 ipucu - hızlı başlamanızı sağlayacak şeyler",
+        "image": "images/blog/vue-js.jpg",
+        "text": "Ali Kemal Ofluoğlu",
+        "largeImage": "images/blog/vue-js.jpg",
+        "author": ["Ali Kemal Ofluoglu"],
+        "date": "10 Şub Per",
+        "view": "70 görüntüleme",
+        "categories": ["Vue"],
+        "excerpt": "Vue harika. Cidden, Evan You ve topluluk onunla harika bir iş çıkardı ve kariyerimin büyük bir bölümünü şimdi Vue ile çalışarak geçirdim. Yıllar içinde benim vazgeçilmez çerçevem haline geldi ve kesinlikle herkese tavsiye ederim.",
+        "body":  ["<p>1. Vue yalnızca tek sayfalı uygulamalar için değildir. Size Nuxt (temelde Next.js'nin Vues versiyonu) ile nasıl bir şeyler inşa edeceğinizi gösteren çok sayıda ders var - ancak Vue nerede ve nasıl kullanıldığı konusunda oldukça esnektir. Son zamanlarda birkaç Drupal projesinde çalıştım ve Drupal, oluşturma zincirlerinde jQuery ve Twig kullanmakla ünlüdür, ancak arada sırada Vue kullanmak bazı şeyleri çok daha basit hale getirir! Aslında yapabilirsin. Aynı sayfada birkaç Vue uygulaması kullanmak çok iyi mümkün. Vuex mağazalarını, bileşenlerini ve üçüncü taraf kitaplıklarının örneklerini bile paylaşabilirler. Hızlı bir örnek yapalım. Drupal veya Laravel gibi bazı sunucu tarafı çerçevelerinden gelen aşağıdaki HTML kurulumuna sahip olduğunuzu varsayalım:</p>"],
+        "tags": ["Open Source", "Vue"]
+    },
+    {
+        "id": 2,
+        "title": "Next.JS.",
+        "image": "images/blog/next-js.jpg",
+        "text": "Orhan Özçelik",
+        "largeImage": "images/blog/next-js.jpg",
+        "author": ["Orhan Ozcelik"],
+        "date": "30 Nov 2020",
+        "view": "70 views",
+        "categories": ["UX Design", "Company"],
+        "excerpt": "We have always known the power of digital we've.",
+        "body":  ["<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.</p>", "<p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>", "<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words.</p>", "<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>", "<p>If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.</p>", "<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.</p>"],
+        "tags": ["Minimal", "Company", "Development", "Design"]
+    },
+    {
+        "id": 3,
+        "title": "Tailwind CSS.",
+        "image": "images/blog/tailwind-css.jpg",
+        "text": "Ali Kemal Ofluoglu",
+        "largeImage": "images/blog/tailwind-css.jpg",
+        "author": ["Ali Kemal Ofluoglu"],
+        "date": "12 Oct 2020",
+        "view": "70 views",
+        "categories": ["Development", "UX Design", "Business", "Company"],
+        "excerpt": "We have always known the power of digital we've.",
+        "body":  ["<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.</p>", "<p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>", "<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words.</p>", "<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>", "<p>If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.</p>", "<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable.</p>"],
+        "tags": ["App Landing", "Startup", "Development", "Design"]
+    }
+]

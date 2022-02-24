@@ -1,0 +1,181 @@
+[
+    {
+        "id": 1,
+        "portfolioImage": "./images/portfolio/portfolio-01.jpg",
+        "image": "images/portfolio/portfolio-01.jpg",
+        "title": "Matematikte Kur Sistemi",
+        "subtitle": "Web Yazılım",
+        "date": "1 Mayıs 2016",
+        "client": "Mehmet Karayiğit",
+        "category": "kişisel",
+        "awards": ["2020 Design beautiful apps Finale Awards"],
+        "excerpt": "Design beautiful apps.",
+        "body": ["<p>Matematikte Kur Sistemi eğitim setlerinin ve Kazdağları Matematik Köyü tanıtımının yapıldığı web sitesi. Mehmet Karayiğit ile 2016 yılından beri çalışmaktayız.</p>"],
+        "btn": {
+            "buttontext": "Projeyi Görüntüle",
+            "link": "/"
+        },
+        "largeImage": "./images/portfolio/portfolio-01.jpg",
+        "subContent": {
+            "title": "Digital Marketing.",
+            "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent2": {
+            "title": "App Development.",
+            "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent3": {
+            "title": "Solution.",
+            "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "gallery": {
+            "imageOne": "images/portfolio/portfolio-01.jpg",
+            "imageTwo": "images/portfolio/portfolio-02.jpg",
+            "imageThree": "images/portfolio/portfolio-03.jpg"
+        }
+    },
+
+    {
+        "id": 2,
+        "portfolioImage": "./images/portfolio/portfolio-02.jpg",
+        "image": "images/portfolio/portfolio-02.jpg",
+        "title": "Arwella Giyim",
+        "subtitle": "Kadın Giyim Markası",
+        "date": "01 Kasım 2021",
+        "client": "Arwella Giyim",
+        "category": "e-ticaret",
+        "awards": ["2020 Design beautiful apps Finale Awards"],
+        "excerpt": "Design beautiful apps.",
+        "body": ["<p>Arwella markasının kadın giyim sektöründe e-ticarete atılımında yardımcı olduk. Sitemiz henüz yeni ve 5-6 ay içerisinde dilediğimiz yerlerde olacağına inanıyoruz ve bekleyip göreceğiz.</p>"],
+        "btn": {
+            "buttontext": "Projeyi Görüntüle",
+            "link": "/"
+        },
+        "largeImage": "images/portfolio/portfolio-02.jpg",
+        "subContent": {
+            "title": "Digital Marketing.",
+            "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent2": {
+            "title": "App Development.",
+            "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent3": {
+            "title": "Solution.",
+            "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "gallery": {
+            "imageOne": "images/portfolio/portfolio-01.jpg",
+            "imageTwo": "images/portfolio/portfolio-02.jpg",
+            "imageThree": "images/portfolio/portfolio-03.jpg"
+        }
+    },
+
+    {
+        "id": 3,
+        "portfolioImage": "./images/portfolio/portfolio-03.jpg",
+        "image": "images/portfolio/portfolio-03.jpg",
+        "title": "İstanbul Hasta Bakıcı",
+        "subtitle": "İşletme",
+        "date": "1 Şubat 2021",
+        "client": "Ahmet Sarıgül",
+        "category": "işletme",
+        "awards": ["2020 Design beautiful apps Finale Awards"],
+        "excerpt": "Design beautiful apps.",
+        "body": ["<p>Kendi markalarımızdan biri haline gelecek olan İstanbul Hasta Bakıcı sitesi de en yeni tasarımlarımızdan.</p>"],
+        "btn": {
+            "buttontext": "Projeyi Görüntüle",
+            "link": "/"
+        },
+        "largeImage": "images/portfolio/portfolio-03.jpg",
+        "subContent": {
+            "title": "Digital Marketing.",
+            "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent2": {
+            "title": "App Development.",
+            "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent3": {
+            "title": "Solution.",
+            "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "gallery": {
+            "imageOne": "images/portfolio/portfolio-01.jpg",
+            "imageTwo": "images/portfolio/portfolio-02.jpg",
+            "imageThree": "images/portfolio/portfolio-03.jpg"
+        }
+    },
+
+    {
+        "id": 4,
+        "portfolioImage": "./images/portfolio/portfolio-04.jpg",
+        "image": "images/portfolio/portfolio-04.jpg",
+        "title": "Piyano İstanbul",
+        "subtitle": "İşletme",
+        "date": "1 Ocak 2022",
+        "client": "Pi Akademi",
+        "category": "işletme",
+        "awards": ["Bulunmuyor"],
+        "excerpt": "Design beautiful apps.",
+        "body": ["<p>Piyano İstanbul - Pi Akademi için yaptığımız web sayfası, çok yeni ve üst sıralara tırmanmaya başladı.</p>"],
+        "btn": {
+            "buttontext": "Projeyi Görüntüle",
+            "link": "/"
+        },
+        "largeImage": "images/portfolio/portfolio-04.jpg",
+        "subContent": {
+            "title": "Digital Marketing.",
+            "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent2": {
+            "title": "App Development.",
+            "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent3": {
+            "title": "Solution.",
+            "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "gallery": {
+            "imageOne": "images/portfolio/portfolio-01.jpg",
+            "imageTwo": "images/portfolio/portfolio-02.jpg",
+            "imageThree": "images/portfolio/portfolio-04.jpg"
+        }
+    },
+
+    {
+        "id": 5,
+        "portfolioImage": "./images/portfolio/portfolio-05.jpg",
+        "image": "images/portfolio/portfolio-05.jpg",
+        "title": "Endeks Mali Müşavirlik",
+        "subtitle": "İşletme",
+        "date": "1 Aralık 2015",
+        "client": "Endeks Mali Müşavirlik",
+        "category": "işletme",
+        "awards": ["2020 Design beautiful apps Finale Awards"],
+        "excerpt": "Design beautiful apps.",
+        "body": ["<p>Endeks Mali Müşavirlik için 2015 yılında hazırladığımız web sitesi yeniden yayında.</p>"],
+        "btn": {
+            "buttontext": "Projeyi Gör",
+            "link": "/"
+        },
+        "largeImage": "images/portfolio/portfolio-05.jpg",
+        "subContent": {
+            "title": "Digital Marketing.",
+            "subtext": "We provide digital experience services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent2": {
+            "title": "App Development.",
+            "subtext": "We provide App Development services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "subContent3": {
+            "title": "Solution.",
+            "subtext": "We provide problem solutions services to startups and small businesses. We help our clients succeed by creating brand identities."
+        },
+        "gallery": {
+            "imageOne": "images/portfolio/portfolio-01.jpg",
+            "imageTwo": "images/portfolio/portfolio-02.jpg",
+            "imageThree": "images/portfolio/portfolio-03.jpg"
+        }
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "id": 0,
+        "title": "Web sitenizi Alternatik ile güçlendirin."
+    },
+
+    {
+        "id": 1,
+        "title": "Alternatik",
+        "quicklink": [
+            {
+                "id": 1,
+                "text": "Hakkımızda",
+                "url": "/alternatik"
+            },
+            {
+                "id": 2,
+                "text": "Hizmetlerimiz",
+                "url": "/hizmetlerimiz"
+            },
+            {
+                "id": 3,
+                "text": "Portfolio",
+                "url": "/portfolio"
+            },
+            {
+                "id": 4,
+                "text": "İletişim",
+                "url": "/iletisim"
+            }
+        ]
+    },
+
+    {
+        "id": 2,
+        "title": "Çözümlerimiz",
+        "quicklink": [
+            {
+                "id": 1,
+                "text": "Galeri",
+                "url": "/galeri"
+            },
+            {
+                "id": 2,
+                "text": "İş Çözümleri",
+                "url": "/is-cozumleri"
+            },
+            {
+                "id": 3,
+                "text": "Sık Sorulanlar",
+                "url": "/sik-sorulanlar"
+            },
+            {
+                "id": 4,
+                "text": "Fiyatlar",
+                "url": "/fiyatlar"
+            }
+        ]
+    },
+
+    {
+        "id": 3,
+        "title": "Kurumsal",
+        "quicklink": [
+            {
+                "id": 1,
+                "text": "Değerlerimiz",
+                "url": "/degerlerimiz"
+            },
+            {
+                "id": 2,
+                "text": "Takımımız",
+                "url": "/takimimiz"
+            },
+            {
+                "id": 3,
+                "text": "Referanslar",
+                "url": "/referanslar"
+            },
+            {
+                "id": 4,
+                "text": "Yorumlar",
+                "url": "/yorumlar"
+            }
+        ]
+    },
+
+    {
+        "id": 4,
+        "title": "Kaynaklar",
+        "quicklink": [
+            {
+                "id": 1,
+                "text": "Blog",
+                "url": "/blog"
+            },
+            {
+                "id": 2,
+                "text": "Online Randevu",
+                "url": "/randevu"
+            },
+            {
+                "id": 3,
+                "text": "Hız Rekorları",
+                "url": "/hiz-rekorlari"
+            },
+            {
+                "id": 4,
+                "text": "Kurumsal Kimlik",
+                "url": "/kurumsal-kimlik"
+            }
+        ]
+    },
+
+
+
+
+    {
+        "id": 5,
+        "title": "Bizimle Kalın.",
+        "subtitle": "Dünya genelinde 200 üzerinde müşteri"
+    }
+]
