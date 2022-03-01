@@ -27,7 +27,7 @@ function VideoTwo({galleryItem , imagename}) {
             <div className="video-popup icon-center">
                 <div className="overlay-content">
                     <div className="thumbnail">
-                        <img className="radius-small" src={`${imagename}`} alt="Corporate Image" />
+                        <img className="radius-small" src={`${imagename}`} alt="Alternatik Dijital Çözümler" />
                     </div>
                     <div className="video-icon">
                         <button className="btn-default rounded-player" onClick={ () => setToggler(!toggler) }><span>{iconHandel()}</span></button>

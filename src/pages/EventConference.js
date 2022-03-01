@@ -14,7 +14,6 @@ import BrandThree from '../elements/brand/BrandThree';
 import TeamThree from '../elements/team/TeamThree';
 import PricingTwo from '../elements/pricing/PricingTwo';
 
-import {Link} from "react-router-dom";
 import { FiArrowRight } from "react-icons/fi";
 import BlogList from "../components/blog/itemProp/BlogList";
 import BlogClassicData from '../data/blog/BlogList.json';
@@ -52,7 +51,7 @@ const EventConference = () => {
                                     <h1 className="title color-white">Doob event conference.</h1>
                                     <p className="description color-white">We help our clients succeed by creating brand identities, digital experiences, and print materials.</p>
                                     <div className="button-group mt--30 mt_sm--20">
-                                        <a className="btn-default btn-medium btn-icon btn-border" target="_blank" rel="noreferrer" href="https://themeforest.net/checkout/from_item/33571911?license=regular">Purchase Now <i className="icon"><FiArrowRight /></i></a>
+                                        <a className="btn-default btn-medium btn-icon btn-border" target="_blank" rel="noreferrer"  href="https://themeforest.net/checkout/from_item/33571911?license=regular">Purchase Now <i className="icon"><FiArrowRight /></i></a>
                                     </div>
                                 </div>
                             </div>

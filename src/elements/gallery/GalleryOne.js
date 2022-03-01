@@ -25,7 +25,7 @@ function GalleryOne({galleryItem}) {
     return (
         <div className="rn-gallery icon-center">
             <div className="thumbnail">
-                <img className="radius-small" src={`${image}`} alt="Corporate Image" />
+                <img className="radius-small" src={`${image}`} alt="Alternatik Dijital Çözümler" />
             </div>
             <div className="video-icon">
                 <button className="btn-default rounded-player sm-size" onClick={ () => setToggler(!toggler) }><span>{iconHandel()}</span></button>

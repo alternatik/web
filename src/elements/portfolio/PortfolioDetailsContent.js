@@ -10,7 +10,7 @@ const PortfolioDetailsContent = ({ data }) => {
                         <div className="inner">
                             <div className="details-list">
                                 <div className="thumbnail alignwide">
-                                    <img className="radius w-100" src={`${process.env.PUBLIC_URL}/${data.largeImage}`} alt="Corporate Image" />
+                                    <img className="radius w-100" src={`${process.env.PUBLIC_URL}/${data.largeImage}`} alt="Alternatik Dijital Çözümler" />
                                 </div>
 
                                 <div className="row mt--40 row--30">
@@ -47,17 +47,17 @@ const PortfolioDetailsContent = ({ data }) => {
                             <div className="portfolio-gallery mt--40">
                                 <div className="gallery mt--30">
                                     <div className="thumbnail">
-                                        <img className="radius w-100" src={`${process.env.PUBLIC_URL}/${data.gallery.imageOne}`} alt="Corporate Image" />
+                                        <img className="radius w-100" src={`${process.env.PUBLIC_URL}/${data.gallery.imageOne}`} alt="Alternatik Dijital Çözümler" />
                                     </div>
                                 </div>
                                 <div className="gallery mt--30">
                                     <div className="thumbnail">
-                                        <img className="radius w-100" src={`${process.env.PUBLIC_URL}/${data.gallery.imageTwo}`} alt="Corporate Image" />
+                                        <img className="radius w-100" src={`${process.env.PUBLIC_URL}/${data.gallery.imageTwo}`} alt="Alternatik Dijital Çözümler" />
                                     </div>
                                 </div>
                                 <div className="gallery mt--30">
                                     <div className="thumbnail">
-                                        <img className="radius w-100" src={`${process.env.PUBLIC_URL}/${data.gallery.imageThree}`} alt="Corporate Image" />
+                                        <img className="radius w-100" src={`${process.env.PUBLIC_URL}/${data.gallery.imageThree}`} alt="Alternatik Dijital Çözümler" />
                                     </div>
                                 </div>
                             </div>

@@ -16,7 +16,7 @@ function VideoOne() {
             <div className="col-lg-6 col-md-6 col-12 mt--30">
                 <div className="video-popup icon-center">
                     <div className="thumbnail">
-                        <img className="radius-small" src={`${PopupContent.image}`} alt="Corporate Image" />
+                        <img className="radius-small" src={`${PopupContent.image}`} alt="Alternatik Dijital Çözümler" />
                     </div>
                     <div className="video-icon">
                         <button className="btn-default rounded-player" onClick={ () => setToggler(!toggler) }><span><FiPlay /></span></button>
@@ -28,7 +28,7 @@ function VideoOne() {
             <div className="col-lg-6 col-md-6 col-12 mt--30">
                 <div className="video-popup icon-center">
                     <div className="thumbnail">
-                        <img className="radius-small" src={`${PopupContent.image}`} alt="Corporate Image" />
+                        <img className="radius-small" src={`${PopupContent.image}`} alt="Alternatik Dijital Çözümler" />
                     </div>
                     <div className="video-icon">
                         <button className="btn-default rounded-player" onClick={ () => setToggler(!toggler) }><span><FiPlay /></span></button>

@@ -6,33 +6,32 @@ const TimelineData = [
         id: "1",
         date: "Logo ve Amblem",
         title: "Logotype",
-        description: "Alternatik'in logosu bütünleşik bir tasarım yaklaşımının yansıması olarak amblemi, yazı karakteri ve logouyla kurumsal duruşunu sergilemektedir.",
-        image: "timeline-01",
+        description: "Alternatik'in logosu bütünleşik bir tasarım yaklaşımının yansıması olarak amblemi ve yazı karakteriyle kurumsal duruşunu sergilemektedir.",
+        image: "logotype",
         workingStep: [
             {
-                stepTitle: "Yazı Karakteri",
-                stepDescription: "Embhaus yazı karakterin",
+                stepTitle: "Yazı Karakterimiz",
+                stepDescription: "EmBauhaus",
             },
             {
-                stepTitle: "Renkler",
-                stepDescription: "Kullanım açıklaması",
+                stepTitle: "Renklerimiz",
+                stepDescription: "Corn, Aquamarine, Capri, Phlox, Magenta Crayola, Rich Black FOGRA 29, Gunmetal",
             },
         ]
     },
     {
         id: "2",
-        date: "Step-2",
-        title: "Our compnay working process to present.",
-        description: "Lorem ipsum dolor sit amet at — consectetur adipisicing elit. Hic, expedita. Incidunt laboriosam.",
-        image: "timeline-02",
+        date: "Web Kullanımı",
+        title: "Site Kimliğimiz",
+        image: "siterenkleri",
         workingStep: [
             {
-                stepTitle: "Follow this process",
-                stepDescription: "Lorem ipsum dolor sit amet at consectetur adipisicing",
+                stepTitle: "Yazı Tipi",
+                stepDescription: "Slick",
             },
             {
-                stepTitle: "Working experience",
-                stepDescription: "Lorem ipsum dolor sit amet at consectetur adipisicing",
+                stepTitle: "Renklerimiz",
+                stepDescription: "Dodger Blue, Orange Red Crayola, Majorella Blue, Frostbite, Vivid Sky Blue, Rich Black Fogra 29, Russian Violet, Xiketix, Dark Jungle Green, Dark Purple",
             },
         ]
     },
@@ -96,19 +95,12 @@ const TimelineOne = () => {
                                                 </div>
                                             ))}
                                         </div>
-                                        <div className="read-morebtn">
-                                            <ScrollAnimation 
-                                            animateIn="fadeInUp"
-                                            animateOut="fadeInOut"
-                                            animateOnce={true}>
-                                                <a className="btn-default btn-large round" href="/contact"><span>Get Started Now</span></a>
-                                            </ScrollAnimation>
-                                        </div>
+
                                     </div>
                                 </div>
                                 <div className="order-1 order-lg-2 col-lg-6">
                                     <div className="thumbnail">
-                                        <img className="w-100" src={`./images/timeline/${data.image}.jpg`} alt="Corporate React Template" />
+                                        <img className="w-100" src={`./images/timeline/${data.image}.png`} alt="Corporate React Template" />
                                     </div>
                                 </div>
                             </div>

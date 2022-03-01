@@ -4,7 +4,6 @@ import Separator from "../elements/separator/Separator";
 import HeaderOne from '../common/header/HeaderOne';
 import FooterTwo from '../common/footer/FooterTwo';
 import SectionTitle from "../elements/sectionTitle/SectionTitle";
-import {Link} from "react-router-dom";
 import CounterUpFour from '../elements/counterup/CounterUpFour';
 import ServiceOne from '../elements/service/ServiceOne';
 import AboutFour from '../elements/about/AboutFour';
@@ -39,7 +38,7 @@ const Alternatik = () => {
                                             <h1 className="title" dangerouslySetInnerHTML={{__html: data.title}}></h1>
                                             <p className="description" dangerouslySetInnerHTML={{__html: data.description}}></p>
                                             <div className="button-group mt--30">
-                                                <a className="btn-default btn-large round" target="_blank" href="/portfolio">Portfolio</a>
+                                                <a className="btn-default btn-large round" target="_blank" rel="noreferrer" href="/portfolio">Portfolio</a>
                                                 <a className="btn-default btn-border btn-large round" href="/iletisim">İletişim</a>
                                             </div>
                                         </div>

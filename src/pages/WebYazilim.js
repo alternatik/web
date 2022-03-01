@@ -3,17 +3,14 @@ import Typed from 'react-typed';
 import SEO from "../common/SEO";
 import {Link} from "react-router-dom";
 import { FiArrowRight } from "react-icons/fi";
-import HeaderTwo from '../common/header/HeaderTwo';
+import HeaderOne from '../common/header/HeaderOne';
 import FooterTwo from '../common/footer/FooterTwo';
 import Copyright from '../common/footer/Copyright';
-import AboutOne from '../elements/about/AboutOne';
-import ServiceFive from '../elements/service/ServiceFive';
+import ServiceOne from '../elements/service/ServiceOne';
 import CalltoActionFive from '../elements/calltoaction/CalltoActionFive';
 import TeamTwo from '../elements/team/TeamTwo';
-import TestimonialThree from "../elements/testimonial/TestimonialThree";
 import SectionTitle from "../elements/sectionTitle/SectionTitle";
 import Separator from "../elements/separator/Separator";
-import Mission from "../elements/about/Mission";
 import BlogList from "../components/blog/itemProp/BlogList";
 import BlogClassicData from '../data/blog/BlogList.json';
 var BlogListData = BlogClassicData.slice(0, 3);
@@ -24,9 +21,9 @@ var BlogListData = BlogClassicData.slice(0, 3);
 const WebYazilim = () => {
     return (
         <>
-            <SEO title="Business Consulting 02" />
+            <SEO title="Web Yazılım - Alternatik Dijital Çözümler" />
             <main className="page-wrapper">
-                <HeaderTwo btnStyle="round" HeaderSTyle="header-not-transparent" />
+                <HeaderOne btnStyle="round" HeaderSTyle="header-not-transparent" />
 
                 {/* Start Slider Area  */}
                 <div className="slider-area slider-style-1 bg-transparent height-650">
@@ -48,10 +45,10 @@ const WebYazilim = () => {
                                             loop
                                         />
                                     </h1>
-                                    <p className="description">We help our clients succeed by creating brand identities, digital experiences, and print materials.</p>
+                                    <p className="description">Marka kimlikleri, dijital deneyimler ve basılı materyaller oluşturarak müşterilerimizin başarılı olmasına yardımcı oluyoruz.</p>
                                     <div className="button-group">
-                                        <a className="btn-default btn-medium round btn-icon" target="_blank" href="https://themeforest.net/checkout/from_item/33571911?license=regular">Sipariş Ver <i className="icon"><FiArrowRight /></i></a>
-                                        <Link className="btn-default btn-medium btn-border round btn-icon" to="#">Contact Us <i className="icon"><FiArrowRight /></i></Link>
+                                        <a className="btn-default btn-medium round btn-icon" target="_blank" rel="noreferrer" href="/siparis-ver">Sipariş Ver <i className="icon"><FiArrowRight /></i></a>
+                                        <Link className="btn-default btn-medium btn-border round btn-icon" to="/iletisim">İletişim <i className="icon"><FiArrowRight /></i></Link>
                                     </div>
                                 </div>
                             </div>
@@ -60,11 +57,6 @@ const WebYazilim = () => {
                 </div>
                 {/* End Slider Area  */}
 
-                <Separator />
-
-                {/* Start About Area  */}
-                <AboutOne />                            
-                {/* End About Area  */}
 
                 <Separator />                            
                 {/* Start Service Area  */}
@@ -75,15 +67,15 @@ const WebYazilim = () => {
                                 <SectionTitle
                                     textAlign = "text-center"
                                     radiusRounded = ""
-                                    subtitle = "What we can do for you"
-                                    title = "Services provide for you."
-                                    description = "There are many variations of passages of Lorem Ipsum available, <br /> but the majority have suffered alteration."
+                                    subtitle = "Sizin için ne yapabiliriz?"
+                                    title = "Sunduğumuz hizmetler."
+                                    description = "Özel istekleriniz için lütfen iletişime geçin."
                                     />
                             </div>
                         </div>
-                        <ServiceFive 
-                            serviceStyle = "gallery-style"
-                            textAlign = "text-left"
+                        <ServiceOne
+                            serviceStyle = "service__style--1 icon-circle-style"
+                            textAlign = "text-center"
                         />
                     </div>
                 </div>
@@ -107,9 +99,9 @@ const WebYazilim = () => {
                                     <SectionTitle
                                         textAlign = "text-center"
                                         radiusRounded = ""
-                                        subtitle = "Our Experts."
-                                        title = "Our Company Experts."
-                                        description = "We provide company and finance service for <br /> startups and company business."
+                                        subtitle = "Takımımız"
+                                        title = "Her an hizmetinizdeyiz"
+                                        description = "Kişilere ve işletmere dijital çözümler üretiyoruz."
                                     />
                             </div>
                         </div>
@@ -117,31 +109,6 @@ const WebYazilim = () => {
                     </div>
                 </div>
                 {/* End Team Area  */}
-                <Separator /> 
-                {/* Start Mission Area   */}
-                <Mission />                    
-                {/* Start Mission Area  */}
-
-
-                <Separator />                               
-                {/* Start Testimonial Area  */}
-                <div className="rwt-testimonial-area rn-section-gap">
-                    <div className="container">
-                        <div className="row">
-                            <div className="col-lg-12">
-                                <SectionTitle
-                                    textAlign = "text-center"
-                                    radiusRounded = ""
-                                    subtitle = "Client Feedback"
-                                    title = "Our Awesome Client."
-                                    description = "We provide company and finance service for <br /> startups and company business."
-                                />
-                            </div>
-                        </div>
-                        <TestimonialThree teamStyle="" />
-                    </div>
-                </div>
-                {/* End Testimonial Area  */}
 
                 <Separator />   
                 <div className="blog-area rn-section-gap">
@@ -151,9 +118,9 @@ const WebYazilim = () => {
                                 <SectionTitle
                                     textAlign = "text-center"
                                     radiusRounded = ""
-                                    subtitle = "Latests News"
-                                    title = "Our Latest News."
-                                    description = "We provide company and finance service for <br /> startups and company business."
+                                    subtitle = "Blog'da Yenilikler"
+                                    title = "Son Yazılarımız"
+                                    description = "We provide digital services for <br /> startups and company business."
                                 />
                             </div>
                         </div>

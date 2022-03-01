@@ -1,6 +1,5 @@
 import React from 'react';
 import {Link} from "react-router-dom";
-import { FiArrowRight, FiCheck } from "react-icons/fi";
 import SEO from "../common/SEO";
 import HeaderOne from '../common/header/HeaderOne';
 import FooterTwo from '../common/footer/FooterTwo';
