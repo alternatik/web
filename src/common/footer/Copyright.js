@@ -9,7 +9,7 @@ const Copyright = () => {
                         <div className="copyright-left">
                             <ul className="ft-menu link-hover">
                                 <li><a href="/gizliliksozlesmesi">Gizlilik Sözleşmesi</a></li>
-                                <li><a href="/sartlar-kosullar">Şartlar Koşullar</a></li>
+                                <li><a href="/sartlarkosullar">Şartlar Koşullar</a></li>
                                 <li><a href="/iletisim">İletişim</a></li>
                             </ul>
                         </div>
