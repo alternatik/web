@@ -1,6 +1,5 @@
 import React from 'react';
 import { FiFacebook, FiTwitter, FiInstagram, FiLinkedin } from "react-icons/fi";
-import {Link} from "react-router-dom";
 import ScrollAnimation from "react-animate-on-scroll";
 
 const teamData = [

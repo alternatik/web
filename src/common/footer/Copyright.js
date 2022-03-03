@@ -8,8 +8,8 @@ const Copyright = () => {
                     <div className="col-lg-6 col-md-8 col-sm-12 col-12">
                         <div className="copyright-left">
                             <ul className="ft-menu link-hover">
-                                <li><a href="/gizlilik-sozlesmesi">Gizlilik Sözleşmesi</a></li>
-                                <li><a href="/sartlar-kosullar">/sartlar-kosullar</a></li>
+                                <li><a href="/gizliliksozlesmesi">Gizlilik Sözleşmesi</a></li>
+                                <li><a href="/sartlar-kosullar">Şartlar Koşullar</a></li>
                                 <li><a href="/iletisim">İletişim</a></li>
                             </ul>
                         </div>

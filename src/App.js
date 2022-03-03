@@ -14,7 +14,7 @@ import Company from "./pages/Company";
 import Marketing from "./pages/Marketing";
 import TravelAgency from "./pages/TravelAgency";
 import Consulting from "./pages/Consulting";
-import SeoAgency from "./pages/SeoAgency";
+import GizlilikSozlesmesi from "./pages/GizlilikSozlesmesi";
 import PersonalPortfolio from "./pages/PersonalPortfolio";
 import EventConference from "./pages/EventConference";
 import CreativePortfolio from "./pages/CreativePortfolio";
@@ -88,7 +88,7 @@ const App = () => {
                     <Route path={`${process.env.PUBLIC_URL + "/marketing"}`} exact component={Marketing}/>
                     <Route path={`${process.env.PUBLIC_URL + "/travel-agency"}`} exact component={TravelAgency}/>
                     <Route path={`${process.env.PUBLIC_URL + "/consulting"}`} exact component={Consulting}/>
-                    <Route path={`${process.env.PUBLIC_URL + "/seo-agency"}`} exact component={SeoAgency}/>
+                    <Route path={`${process.env.PUBLIC_URL + "/gizliliksozlesmesi"}`} exact component={GizlilikSozlesmesi}/>
                     <Route path={`${process.env.PUBLIC_URL + "/personal-portfolio"}`} exact component={PersonalPortfolio}/>
                     <Route path={`${process.env.PUBLIC_URL + "/event-conference"}`} exact component={EventConference}/>
                     <Route path={`${process.env.PUBLIC_URL + "/creative-portfolio"}`} exact component={CreativePortfolio}/>

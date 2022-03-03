@@ -97,10 +97,10 @@ const FooterTwo = () => {
                                     <div className="inner">
                                         <h6 className="subtitle">{footerIntemFive.subtitle}</h6>
                                         <ul className="social-icon social-default justify-content-start">
-                                            <li><Link to="https://facebook.com/alternatikwebtr"><FiFacebook /></Link></li>
-                                            <li><Link to="https://twitter.com/alternatikweb"><FiTwitter /></Link></li>
-                                            <li><Link to="https://instagram.com/alternatikweb"><FiInstagram /></Link></li>
-                                            <li><Link to="https://linkedin.com/company/alternatikweb"><FiLinkedin /></Link></li>
+                                            <li><Link to="facebook.com/alternatikwebtr"><FiFacebook /></Link></li>
+                                            <li><Link to="twitter.com/alternatikweb"><FiTwitter /></Link></li>
+                                            <li><Link to="instagram.com/alternatikweb"><FiInstagram /></Link></li>
+                                            <li><Link to="linkedin.com/company/alternatikweb"><FiLinkedin /></Link></li>
                                         </ul>
                                     </div>
                                 </div>

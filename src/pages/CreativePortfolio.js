@@ -1,7 +1,6 @@
 import React from 'react';
 import SEO from "../common/SEO";
-import {Link} from "react-router-dom";
-import { FiArrowRight, FiCheck } from "react-icons/fi";
+import { FiArrowRight } from "react-icons/fi";
 import HeaderOne from '../common/header/HeaderOne';
 import HeaderTopBar from '../common/header/HeaderTopBar';
 

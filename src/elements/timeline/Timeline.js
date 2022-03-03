@@ -1,5 +1,4 @@
 import React from 'react';
-import Separator from "../separator/Separator";
 import SEO from "../../common/SEO";
 import Layout from "../../common/Layout";
 import SectionTitle from "../sectionTitle/SectionTitle";
